@@ -9,7 +9,7 @@ The script was designed based on the simple project folder structure. The necess
 internally based on the project code from sample_utilities.py. 
 
 ### Requirements
-The necessary python modules are needed to run the script mentioned in the requirement.txt file. 
+The necessary python modules are needed to run the script mentioned in the requirement.txt file. The Project folder is in Project.rar.
 
 The necessary basic information to execute code are provided in config.json file. This JSON file contains information about 
 source providers API-key, location of the project directory and area of interest GeoJSON shapefile's name. GeoJSON shapefile 
